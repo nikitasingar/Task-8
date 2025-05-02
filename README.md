@@ -1,4 +1,4 @@
-# 📊 Task 8: Simple Sales Dashboard Design
+# 📊 Task 8: Simple Sales Dashboard 
 
 ## 🎯 Objective
 To design a basic and interactive sales dashboard using **Power BI**, showcasing performance by **Product Category**, **Region**, and **Monthly Trends**.
